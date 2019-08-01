@@ -183,6 +183,14 @@ object Form1: TForm1
         Height = 27
         OnClick = btnTesteClick
       end
+      object spdAbrir: TSpeedButton
+        Left = 752
+        Top = 10
+        Width = 113
+        Height = 28
+        Caption = 'Abrir'
+        OnClick = spdAbrirClick
+      end
       object btnShow: TBitBtn
         Left = 176
         Top = 10

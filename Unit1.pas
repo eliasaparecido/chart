@@ -71,8 +71,10 @@ type
     SaveDialog1: TSaveDialog;
     btnTeste: TSpeedButton;
     btnShow: TBitBtn;
+    spdAbrir: TSpeedButton;
     procedure btnTesteClick(Sender: TObject);
     procedure btnShowClick(Sender: TObject);
+    procedure spdAbrirClick(Sender: TObject);
   private
     { Private declarations
     SpeedButton1: TSpeedButton;}
@@ -87,7 +89,7 @@ implementation
 
 {$R *.dfm}
 
-uses UnTeste;
+uses UnTeste, Unit2;
 
 
 
@@ -101,6 +103,11 @@ end;
 procedure TForm1.btnTesteClick(Sender: TObject);
 begin
   frmTeste.Show;
+end;
+
+procedure TForm1.spdAbrirClick(Sender: TObject);
+begin
+  frmAbrir.ShowModal;
 end;
 
 end.
