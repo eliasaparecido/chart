@@ -200,7 +200,6 @@ object Form1: TForm1
         TabOrder = 0
         OnClick = btnShowClick
       end
-
     end
   end
   object SQLConnection1: TSQLConnection

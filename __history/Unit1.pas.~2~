@@ -70,10 +70,11 @@ type
     cxGrid1DBChartView6DataGroup1: TcxGridDBChartDataGroup;
     SaveDialog1: TSaveDialog;
     btnTeste: TSpeedButton;
-
+<<<<<<< HEAD
+=======
     btnShow: TBitBtn;
     spdAbrir: TSpeedButton;
-
+>>>>>>> testForm
     procedure btnTesteClick(Sender: TObject);
     procedure btnShowClick(Sender: TObject);
     procedure spdAbrirClick(Sender: TObject);

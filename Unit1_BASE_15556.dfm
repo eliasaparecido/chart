@@ -183,14 +183,6 @@ object Form1: TForm1
         Height = 27
         OnClick = btnTesteClick
       end
-      object spdAbrir: TSpeedButton
-        Left = 752
-        Top = 10
-        Width = 113
-        Height = 28
-        Caption = 'Abrir'
-        OnClick = spdAbrirClick
-      end
       object btnShow: TBitBtn
         Left = 176
         Top = 10
@@ -200,7 +192,6 @@ object Form1: TForm1
         TabOrder = 0
         OnClick = btnShowClick
       end
-
     end
   end
   object SQLConnection1: TSQLConnection
