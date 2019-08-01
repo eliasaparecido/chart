@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/04 08:56:59.000.948,=C:\Users\Cambos\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/31 17:18:32.000.113,=C:\Users\Cambos\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/31 17:18:46.000.742,C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Unit1.pas=C:\Users\Cambos\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/31 17:18:46.000.742,C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Unit1.dfm=C:\Users\Cambos\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/07/31 17:18:49.000.173,C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Project1.dproj=C:\Users\Cambos\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/08/01 11:36:19.000.261,=C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Unit2.pas</Transaction>
+    <Transaction>2019/08/01 13:40:56.000.110,C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Unit2.pas=</Transaction>
+    <Transaction>2019/08/01 14:00:04.000.237,=C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Unit2.pas</Transaction>
+    <Transaction>2019/08/01 14:03:12.000.513,=C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Unit3.pas</Transaction>
+    <Transaction>2019/08/01 14:18:19.000.693,C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Unit3.pas=</Transaction>
+    <Transaction>2019/08/01 14:33:23.000.411,C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Unit2.pas=</Transaction>
+    <Transaction>2019/08/01 14:38:22.000.751,=C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Unit2.pas</Transaction>
+    <Transaction>2019/08/01 14:38:41.000.498,C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Unit2.dfm=C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\addbotao.dfm</Transaction>
+    <Transaction>2019/08/01 14:38:41.000.498,C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\Unit2.pas=C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\addbotao.pas</Transaction>
+    <Transaction>2019/08/01 14:48:09.000.458,C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\TESTE\addbotao.pas=</Transaction>
+    <Transaction>2019/08/01 15:50:36.000.119,=C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\teste\Unit2.pas</Transaction>
+    <Transaction>2019/08/01 15:56:15.000.800,=C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\teste\Unit2.pas</Transaction>
+    <Transaction>2019/08/01 15:56:53.000.010,C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\teste\UnTeste.pas=C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\teste\Unit2.pas</Transaction>
+    <Transaction>2019/08/01 15:56:53.000.010,C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\teste\UnTeste.dfm=C:\Users\Cambos\Documents\Embarcadero\Studio\Projects\teste\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
